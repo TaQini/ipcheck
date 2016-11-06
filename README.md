@@ -5,8 +5,8 @@
     ```
     $ git clone https://github.com/TaQini/ipcheck.git
     $ cd ./ipcheck
-    $ chmod u+x ./ipcheck.sh 
-    $ ./ipcheck.sh
+    $ chmod u+x ./checkip.sh 
+    $ ./checkip.sh
     ```
 ##注意
     1.确保能ping通ip.cn
