@@ -1,5 +1,5 @@
 # IPcheck
-
+```
 PPAP ~ CheckIP
 I have an ip, I have to check.
 (Eh~) Check-IP!
@@ -8,15 +8,12 @@ I have to check, check an ip.
 Check-IP~IP-Check(Eh~)
 IP-Check~Check-IP!
 IP-Check~Check-IP!
-
+```
 ##用法
-    下载ipcheck
-    ```
     $ git clone https://github.com/TaQini/ipcheck.git
     $ cd ./ipcheck
     $ chmod u+x ./checkip.sh 
     $ ./checkip.sh
-    ```
 ##注意
     1.确保能ping通ip.cn
     2.需要安装python,tracerouter
