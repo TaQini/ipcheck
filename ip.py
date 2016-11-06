@@ -1,4 +1,4 @@
-#!/bin/usr/python 
+#!/usr/bin/python 
 #codind: utf-8
 
 __author__ = "TaQini"
