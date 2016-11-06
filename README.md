@@ -1,5 +1,14 @@
 # IPcheck
 
+PPAP ~ CheckIP
+I have an ip, I have to check.
+(Eh~) Check-IP!
+I have to check, check an ip.
+(Eh~) IP-Check!
+Check-IP~IP-Check(Eh~)
+IP-Check~Check-IP!
+IP-Check~Check-IP!
+
 ##用法
     下载ipcheck
     ```
